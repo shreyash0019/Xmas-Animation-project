@@ -40,4 +40,3 @@ Feel free to **fork** this repository, submit issues, or open pull requests to i
 ## 📜 License
 This project is licensed under the **MIT License**.
 
-## 🎅 Happy Coding & Merry Christmas! ❄️
