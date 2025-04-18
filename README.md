@@ -37,6 +37,4 @@ Xmas-Animation-project/
 ## 🤝 Contributing
 Feel free to **fork** this repository, submit issues, or open pull requests to improve the project!
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
