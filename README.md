@@ -34,7 +34,7 @@ Xmas-Animation-project/
 - Enjoy the animated Christmas effect!
 - Modify `style.css` and `main.js` to customize the design and animations.
 
-## 🤝 Contributing
+## 🤝🤍 Contributing
 Feel free to **fork** this repository, submit issues, or open pull requests to improve the project!
 
 
